@@ -1,6 +1,6 @@
 package chernobyl;
 
-public abstract class Operator extends Character {
+public abstract class Operator extends Character { // This will be father of Miner, Firefighter and Scientific
 
     private boolean spotted;
 
@@ -9,7 +9,7 @@ public abstract class Operator extends Character {
     }
 
     public Operator(String name,int turn,int currentCellId,char marker){
-        super();
+        super(name,turn,currentCellId,marker);
         spotted=false;
     }
 
