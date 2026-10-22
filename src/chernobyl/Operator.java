@@ -28,6 +28,7 @@ public abstract class Operator extends Character { // This will be father of Min
     }
 
     @Override
+
     public String toString(){
         return super.toString()+", reconocido="+getSpotted();
     }

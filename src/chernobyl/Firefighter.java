@@ -35,6 +35,11 @@ public abstract class Firefighter extends Operator {
     }
 
     @Override
+
+    public void performActions(){
+        System.out.println("The firefighter "+name+" is performing its actions...");
+    }
+
     public String toString(){
         return "Bombero"+super.toString()+", cargaRefrigerador="+getCoolingDeviceBattery()+"}";
     }
