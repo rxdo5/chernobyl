@@ -1,6 +1,6 @@
 package chernobyl;
 
-public abstract class Firefighter extends Operator {
+public class Firefighter extends Operator {
 
     int coolingDeviceBattery;
 

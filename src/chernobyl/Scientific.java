@@ -1,6 +1,6 @@
 package chernobyl;
 
-public abstract class Scientific extends Operator{
+public class Scientific extends Operator{
 
     public Scientific(){
         super();

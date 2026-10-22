@@ -1,6 +1,6 @@
 package chernobyl;
 
-public abstract class Officer extends Kgb{
+public class Officer extends Kgb{
 
     public Officer(){
         super();

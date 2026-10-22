@@ -1,6 +1,6 @@
 package chernobyl;
 
-public abstract class Volunteer extends Kgb{
+public class Volunteer extends Kgb{
 
     public Volunteer(){
         super();

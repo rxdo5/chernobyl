@@ -1,6 +1,6 @@
 package chernobyl;
 
-public abstract class Miner extends Operator {
+public class Miner extends Operator {
 
     public Miner(){
         super();
