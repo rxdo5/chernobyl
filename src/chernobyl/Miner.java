@@ -13,7 +13,7 @@ public abstract class Miner extends Operator {
     @Override
 
     public void performActions(){
-        System.out.println("Minero "+name+" performing its actions...");
+        System.out.println("The miner "+name+" is performing its actions...");
     }
 
     public String toString(){
