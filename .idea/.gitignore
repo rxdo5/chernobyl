@@ -1,0 +1,10 @@
+# Default ignored files
+/../../../:chernobyl/.idea/shelf/
+/../../../:chernobyl/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../../:chernobyl/.idea/httpRequests/
+# Ignored default folder with query files
+/../../../:chernobyl/.idea/queries/
+# Datasource local storage ignored files
+/../../../:chernobyl/.idea/dataSources/
+/../../../:chernobyl/.idea/dataSources.local.xml
