@@ -16,4 +16,8 @@ public abstract class Officer extends Kgb{
         System.out.println("The officer "+name+" is performing its actions...");
     }
 
+    public String toString(){
+        return "Oficial"+super.toString()+"}";
+    }
+
 }
